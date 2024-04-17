@@ -1,0 +1,39 @@
+@import "{{ site.theme }}":
+
+body {
+    background-color: #f0f6fc; /* light blue */
+    color: #333; /* dark gray */
+}
+
+h1, h2, h3 {
+    color: #005eff; /* blue */
+}
+
+a {
+    color: #005eff; /* blue */
+}
+
+/* Custom color schemes for README sections */
+/* Portfolio Projects */
+.portfolio-section {
+    background-color: #f0f0f5; /* light purple */
+    color: #333; /* dark gray */
+}
+
+/* Certificates */
+.certificates-section {
+    background-color: #dcd0ff; /* light purple */
+    color: #333; /* dark gray */
+}
+
+/* Work Experience */
+.work-experience-section {
+    background-color: #e6e6ff; /* light purple */
+    color: #333; /* dark gray */
+}
+
+/* Education */
+.education-section {
+    background-color: #ccc0ff; /* light purple */
+    color: #333; /* dark gray */
+}

@@ -3,3 +3,9 @@ title: MelodiousMeadow
 #description: of picture
 show_downloads: true 
 theme: jekyll-theme-cayman
+
+# Define custom colors
+colors:
+  primary: "#2ecc71"   # Vibrant green
+  secondary: "#3498db" # Calming blue
+  accent: "#e74c3c"    # Bold red

@@ -2,7 +2,7 @@
 
 ### Portfolio Projects
 
-  #### A look at how students fair in school (Python)
+#### A look at how students fair in school (Python)
   
 ### Certificates
 

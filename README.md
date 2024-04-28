@@ -1,8 +1,7 @@
 # Data Analyst
 
 ### Portfolio Projects
-
-#### A look at how students fair in school (Python)
+## Python: 
 [Student Performance Analysis](https://github.com/MelodiousMeadow/melodiousmeadow.github.io/blob/main/SchoolPerformanceAnalysis.ipynb)
 
   

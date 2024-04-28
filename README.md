@@ -14,7 +14,7 @@
 #### Udacity's Digital Marketing Nanodegree (November 2021 - January 2022)
 
 ### Education 
-#### Master's of Science, Occupational Therapy (August 2016)
+#### Master's of Science, Occupational Therapy (May 2016)
 #### CSU Dominguez Hills
 
 

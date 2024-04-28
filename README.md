@@ -3,7 +3,7 @@
 ### Portfolio Projects
 
 #### A look at how students fair in school (Python)
-[Student Performance Analysis] (https://github.com/MelodiousMeadow/melodiousmeadow.github.io/blob/main/SchoolPerformanceAnalysis.ipynb)
+[Student Performance Analysis](https://github.com/MelodiousMeadow/melodiousmeadow.github.io/blob/main/SchoolPerformanceAnalysis.ipynb)
 
   
 ### Certificates

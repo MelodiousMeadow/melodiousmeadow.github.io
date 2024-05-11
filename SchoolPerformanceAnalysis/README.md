@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Portfolio Projects
-[Student Performance Analysis (Python)](https://github.com/MelodiousMeadow/melodiousmeadow.github.io/blob/main/SchoolPerformanceAnalysis.ipynb)
+[Student Performance Analysis (Python)](https://github.com/MelodiousMeadow/melodiousmeadow.github.io/blob/main/SchoolPerformanceAnalysis/SchoolPerformanceAnalysis.ipynb)
 
 [Dog Data (SQL)](https://github.com/MelodiousMeadow/DogDataSQL/tree/main/DogData)
 

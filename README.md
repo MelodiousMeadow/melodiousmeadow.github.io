@@ -10,11 +10,11 @@
 
 #### TechTrove eCommerce Analysis (SQL, Excel)
 - **Description:** Analyzed eCommerce data from simulated company TechTrove to identify trends and insights critical for business decisions.
-<u>[Explore TechTrove eCommerce Analysis](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis)</u>
+[Explore TechTrove eCommerce Analysis](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis)
 
 #### Student Performance Analysis (Python)
 - **Description:** Conducted detailed analysis of student performance data, focusing on factors influencing academic success.
-<u>[Explore Student Performance Analysis](https://github.com/MelodiousMeadow/School_Performance_Analysis)</u>
+[Explore Student Performance Analysis](https://github.com/MelodiousMeadow/School_Performance_Analysis)
 
 
 

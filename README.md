@@ -1,8 +1,10 @@
-<h1 align="center"> Data Analyst</h1>
-<h3 align="center"> --ZW </h3>
+<h1 align="center">Zoë Walp</h1>
+<h3 align="center"> <em>Data Analyst</em></h3>
 
 
-#### Welcome to my portfolio! Below, I showcase two impactful data analysis projects that highlight my proficiency in leveraging diverse tools and programming languages to extract valuable insights from data. I store my projects on GitHub for easy access and collaboration.
+
+#### Welcome to my portfolio! 
+#### Below, I showcase two impactful data analysis projects that highlight my proficiency in leveraging diverse tools and programming languages to extract valuable insights from data. I store my projects on GitHub for easy access and collaboration.
 
 ### Portfolio Projects:
 
@@ -16,4 +18,3 @@
 
 
 
-<div style="background-image: repeating-linear-gradient(45deg, #000000, #000000 10px, #ffffff 10px, #ffffff 20px); height: 3px;"></div>

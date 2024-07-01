@@ -1,20 +1,14 @@
 # Data Analyst
+### Zoë Walp
 
-### Portfolio Projects
-[Student Performance Analysis (Python)](https://github.com/MelodiousMeadow/melodiousmeadow.github.io/blob/main/SchoolPerformanceAnalysis/SchoolPerformanceAnalysis-v1.ipynb)
+#### Welcome to my portfolio! Here, I showcase two impactful data analysis projects that highlight my proficiency in leveraging diverse tools and programming languages to extract valuable insights from data.
 
-[Dog Data (SQL)](https://github.com/MelodiousMeadow/DogDataSQL/tree/main/DogData)
 
-[Dog Data (Tableau)](https://public.tableau.com/app/profile/z.w8482/viz/DogDataProject1/DogDataPresentation)
+### Portfolio Projects:
 
-### Certificates
-#### Google Analytics Certificate (April 2024)
-#### Udemy's The Complete SQL Bootcamp (December 2023)
-#### Udacity's Data Analytics Nanodegree (September 2023 - October 2023)
-#### Udacity's Digital Marketing Nanodegree (November 2021 - January 2022)
+[TechTrove eCommerce Analysis (SQL, Excel)](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis)
 
-### Education 
-#### Master's of Science, Occupational Therapy (May 2016)
-#### CSU Dominguez Hills
+[Student Performance Analysis (Python)](https://github.com/MelodiousMeadow/School_Performance_Analysis)
+
 
 

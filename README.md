@@ -11,7 +11,7 @@
 <u>[Explore TechTrove eCommerce Analysis](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis)</u>
 
 #### Student Performance Analysis (Python)
-- **Description:** Conducted detailed analysis of student performance data using Python, focusing on factors influencing academic success.
+- **Description:** Conducted detailed analysis of student performance data, focusing on factors influencing academic success.
 <u>[Explore Student Performance Analysis](https://github.com/MelodiousMeadow/Student_Performance_Analysis)</u>
 
 

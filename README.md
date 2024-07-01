@@ -14,7 +14,7 @@
 
 #### Student Performance Analysis (Python)
 - **Description:** Conducted detailed analysis of student performance data, focusing on factors influencing academic success.
-<u>[Explore Student Performance Analysis](https://github.com/MelodiousMeadow/Student_Performance_Analysis)</u>
+<u>[Explore Student Performance Analysis](https://github.com/MelodiousMeadow/School_Performance_Analysis)</u>
 
 
 

@@ -7,7 +7,7 @@
 ### Portfolio Projects:
 
 #### TechTrove eCommerce Analysis (SQL, Excel)
-- **Description:** Anal;yzed eCommerce data from simulated company TechTrove to identify trends and insights critical for business decisions.
+- **Description:** Analyzed eCommerce data from simulated company TechTrove to identify trends and insights critical for business decisions.
 <u>[Explore TechTrove eCommerce Analysis](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis)</u>
 
 #### Student Performance Analysis (Python)
